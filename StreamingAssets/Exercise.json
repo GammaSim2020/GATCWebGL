@@ -1,0 +1,12 @@
+{
+"Sector": "ZML",
+"HoraInicio": "10:00:00",
+"Vuelos": [
+  {"Callsign": "RYR63GS", "AircraftModel": "B738", "Wake": "M", "Position": "AMPOL", "InitLevel": 120, "Cfl":200, "IndicatedAirSpeed": 290, "Rate": 1000, "Route": ["AMPOL", "DGO"]},
+  {"Callsign": "BCS8569", "AircraftModel": "A306", "Wake": "H", "Position": "BRUNO", "InitLevel": 160, "Cfl":200, "IndicatedAirSpeed": 240, "Rate": 1000, "Route": ["BRUNO", "RES"]},
+  {"Callsign": "BCS93R", "AircraftModel": "B752", "Wake": "M", "Position": "LULAK", "InitLevel": 150, "Cfl":200, "IndicatedAirSpeed": 260, "Rate": 1500, "Route": ["LULAK", "ASTRO", "MHN"]},
+  {"Callsign": "RYR2833", "AircraftModel": "B738", "Wake": "M", "Position": "ARBEK", "InitLevel": 140, "Cfl":200, "IndicatedAirSpeed": 290, "Rate": 2000, "Route": ["ARBEK", "REBUL", "USKAR", "MOPAS"]},
+  {"Callsign": "RYR9955", "AircraftModel": "A321", "Wake": "M", "Position": "SEROX", "InitLevel": 100, "Cfl":200, "IndicatedAirSpeed": 200, "Rate": 1000, "Route": ["SEROX", "DISET"]},
+  {"Callsign": "BCS11C", "AircraftModel": "B752", "Wake": "M", "Position": "EBROX", "InitLevel": 150, "Cfl":200, "IndicatedAirSpeed": 260, "Rate": 1500, "Route": ["EBROX", "KERIP"]}
+]
+} 
