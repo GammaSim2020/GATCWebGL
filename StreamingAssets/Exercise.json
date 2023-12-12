@@ -17,5 +17,5 @@
 	"ErrorProbs":{"LvlProbs":{"NotInitLvl": 10, "FreezeLvl": 10, "WrongLvl":50, "ExceedLvl": 0}, "SpeedProbs":{"WrongSpd":25},"RateProbs":{"WrongRate":25}, "HdgProbs":{"TurnHdg": 0, "FreezeHdg": 0, "LeaveHdg":0, "ExceedHdg": 0},"RouteProbs":{"WrongRoute":75}}}
 	
 ],
-"Descripcion": "Prueba de descripción de ejercicio. \n · Paso 1: [...]\n · Paso 2: [...]", 
+"Descripcion": "Prueba de descripción de ejercicio. \n · Paso 1: [...]\n · Paso 2: [...]" 
 } 
