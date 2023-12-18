@@ -17,6 +17,6 @@
 	"ErrorProbs":{"LvlProbs":{"NotInitLvl": 10, "FreezeLvl": 10, "WrongLvl":50, "ExceedLvl": 0}, "SpeedProbs":{"WrongSpd":25},"RateProbs":{"WrongRate":25}, "HdgProbs":{"TurnHdg": 0, "FreezeHdg": 0, "LeaveHdg":0, "ExceedHdg": 0},"RouteProbs":{"WrongRoute":75}}}
 	
 ],
-"NombreEjercicio": "Ejercicio 3. Nivelación a nivel distinto del CFL",
+"NombreEjercicio": "Ejercicio 11. Previsión de abandono de ruta",
 "Descripcion": "Prueba de descripción de <color=red><b>ejercicio</b></color> número 3. \n · <color=red>Paso 1</color>: [...]\n · <color=red>Paso 2</color>: [...]" 
 } 
