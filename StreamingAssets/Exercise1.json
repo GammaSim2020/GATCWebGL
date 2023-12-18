@@ -17,6 +17,19 @@
 	"ErrorProbs":{"LvlProbs":{"NotInitLvl": 10, "FreezeLvl": 10, "WrongLvl":50, "ExceedLvl": 0}, "SpeedProbs":{"WrongSpd":25},"RateProbs":{"WrongRate":25}, "HdgProbs":{"TurnHdg": 0, "FreezeHdg": 0, "LeaveHdg":0, "ExceedHdg": 0},"RouteProbs":{"WrongRoute":75}}}
 	
 ],
-"NombreEjercicio": "Ejercicio 1. No inicio de maniobra hacia el CFL",
-"Descripcion": "Prueba de descripción de <color=red><b>ejercicio</b></color> número 1. \n · <color=red>Paso 1</color>: [...]\n · <color=red>Paso 2</color>: [...]" 
+"NombreEjercicio": "<b><color=#4AA6FF>Localiza el tráfico RYR63GS de PEXOT a RODRA establecido a FL150</color></b>
+
+<color=#72EA3F>Anota CFL 170</color>
+Espera 5 segundos y observa que la etiqueta presenta:
+    · Campo Nivel autorizado, resalte amarillo de disconformidad vertical.
+    · <color=#FFD653>Campo Disconformidad Vertical Operacional con la indicación LVL con resalte amarillo en la linea 0.</color>
+<color=#72EA3F>Haz click con el botón izquierdo sobre el campo descriptivo de la alarma (LVL)</color> que aparece en la línea 0 de la etiqueta para reconocer el resalte de iCMON (matizar la alarma). El campo de la línea cero se presentará en color verde oscuro, pero el resto de campos de la etiqueta relacionados con la alerta seguirán presentados en el color correspondiente a la disconformidad (amarillo).
+NOTA:
+A través del campo AFL (Modo C) y exclusivamente para operaciones por Voz, el panel rápido de introducción de CFL y el panel de niveles V2 presentan el nuevo botón WR (“When Ready”) disponible.
+Cuando se introduce en el sistema un CFL marcado como "When Ready" se autoriza a la aeronave a iniciar la maniobra hacia el CFL libremente en el momento en que estime oportuno. De esta forma no se genera el aviso de No Inicio de Maniobra al vencer el tiempo habitual de Retardo para inicio de maniobra de CFL, sino que se espera un tiempo mayor adaptable específico de la situación ”When Ready”, por defecto de 3 minutos.o de la alarma (LVL) que aparece en la línea 0 de la etiqueta para reconocer el resalte de iCMON (matizar la alarma). El campo de la línea cero se presentará en color verde oscuro, pero el resto de campos de la etiqueta relacionados con la alerta seguirán presentados en el color correspondiente a la disconformidad (amarillo).
+
+<color=#4FC3FF>NOTA:</color>
+
+A través del campo AFL (Modo C) y exclusivamente para operaciones por Voz, el panel rápido de introducción de CFL y el panel de niveles V2 presentan el nuevo botón WR (“When Ready”) disponible.
+Cuando se introduce en el sistema un CFL marcado como "When Ready" se autoriza a la aeronave a iniciar la maniobra hacia el CFL libremente en el momento en que estime oportuno. De esta forma no se genera el aviso de No Inicio de Maniobra al vencer el tiempo habitual de Retardo para inicio de maniobra de CFL, sino que se espera un tiempo mayor adaptable específico de la situación ”When Ready”, por defecto de 3 minutos." 
 } 
