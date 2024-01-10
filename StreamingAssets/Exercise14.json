@@ -17,6 +17,6 @@
 	"ErrorProbs":{"LvlProbs":{"NotInitLvl": 10, "FreezeLvl": 10, "WrongLvl":50, "ExceedLvl": 0}, "SpeedProbs":{"WrongSpd":25},"RateProbs":{"WrongRate":25}, "HdgProbs":{"TurnHdg": 0, "FreezeHdg": 0, "LeaveHdg":0, "ExceedHdg": 0},"RouteProbs":{"WrongRoute":75}}}
 	
 ],
-"NombreEjercicio": "Ejercicio 14. Giro incoherente y Detección de heading autorizado alcanzado en sentido incorrecto",
-"Descripcion": "Prueba de descripción de <color=red><b>ejercicio</b></color> número 3. \n · <color=red>Paso 1</color>: [...]\n · <color=red>Paso 2</color>: [...]" 
+"NombreEjercicio": "Ejercicio 14: Pasada libre",
+"Descripcion": "<color=white>Haz click con el botón izquierdo sobre el botón verde de PLAY en la esquina superior izquierda para iniciar el ejercicio</color> \n<color=green>Anota las restricciones de todo tipo que consideres necesarias y observa las alertas que se presentan cuando los tráficos incumplen las instrucciones</color> \n<color=white>Si lo deseas, al finalizar el ejercicio pulsa el botón MENU en la esquina inferior derecha para volver al menú y seleccionar otro ejercicio</color> \n"
 } 

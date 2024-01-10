@@ -17,6 +17,6 @@
 	"ErrorProbs":{"LvlProbs":{"NotInitLvl": 10, "FreezeLvl": 10, "WrongLvl":50, "ExceedLvl": 0}, "SpeedProbs":{"WrongSpd":25},"RateProbs":{"WrongRate":25}, "HdgProbs":{"TurnHdg": 0, "FreezeHdg": 0, "LeaveHdg":0, "ExceedHdg": 0},"RouteProbs":{"WrongRoute":75}}}
 	
 ],
-"NombreEjercicio": "Ejercicio 7. Restricción de velocidad vertical tipo igual",
-"Descripcion": "Prueba de descripción de <color=red><b>ejercicio</b></color> número 3. \n · <color=red>Paso 1</color>: [...]\n · <color=red>Paso 2</color>: [...]" 
-} 
+"NombreEjercicio": "Ejercicio 7: Restricción de velocidad vertical (rate) mayor o igual",
+"Descripcion": "<color=white>Haz click con el botón izquierdo sobre el botón verde de PLAY en la esquina superior izquierda para iniciar el ejercicio</color> \n<color=green>Anota CFL 300 a través del panel rápido</color> \n<color=green>Anota velocidad vertical mayor o igual a 1000 a través del panel rápido</color> \n <color=white>Espera unos segundos y observa los resaltes correspondientes a la alerta</color>\n  <color=white>El campo restricción de velocidad vertical se vuelve amarillo </color><color=yellow><b>r10+</b></color>\n<color=white>En la línea 0 aparece en amarillo el texto </color><color=yellow><b>RATE</b></color>\n<color=white>Debajo de la restricción de velocidad vertical aparece la velocidad vertical real en azul </color><color=blue><b>r05</b></color>\n<color=green><b>Haz click con el botón izquierdo sobre el texto de la línea 0 para reconocer la alerta</b></color><color=yellow><b>RATE</b></color> \n<color=white>El texto de la alerta de la línea 0 se vuelve verde oscuro </color><color=olive><b>RATE</b></color>\n<color=white>Al finalizar el ejercicio pulsa el botón MENU en la esquina inferior derecha para volver al menú y seleccionar otro ejercicio</color> \n"
+}
