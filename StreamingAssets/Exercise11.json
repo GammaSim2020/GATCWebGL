@@ -4,7 +4,7 @@
 "Vuelos": [
 	
 	{"Callsign": "IBE11ON", "AircraftModel": "A21N", "Wake": "M", "Position": "POSSY", "InitLevel": 320, "Cfl":320, "IndicatedAirSpeed": 380, "Rate": 2000, "Route": ["POSSY", "GRAUS","GEMAS","REBUL","LATRO","MAMUK"],
-	"ErrorProbs":{"LvlProbs":{"NotInitLvl": 0, "FreezeLvl": 0, "WrongLvl":0, "ExceedLvl": 0}, "SpeedProbs":{"WrongSpd":100},"RateProbs":{"WrongRate":100}, "HdgProbs":{"TurnHdg": 0, "FreezeHdg": 100, "LeaveHdg":0, "ExceedHdg": 0},"RouteProbs":{"WrongRoute":100}}}
+	"ErrorProbs":{"LvlProbs":{"NotInitLvl": 0, "FreezeLvl": 0, "WrongLvl":0, "ExceedLvl": 0}, "SpeedProbs":{"WrongSpd":100},"RateProbs":{"WrongRate":100}, "HdgProbs":{"TurnHdg": 100, "FreezeHdg": 0, "LeaveHdg":0, "ExceedHdg": 0},"RouteProbs":{"WrongRoute":100}}}
 	
 ],
 "NombreEjercicio": "Ejercicio 11: Giro incoherente con el rumbo autorizado",
