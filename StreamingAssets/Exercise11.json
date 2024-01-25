@@ -10,5 +10,5 @@
 "FuerzaVientoNudos":0,
 "AnguloViento":0,
 "NombreEjercicio": "Ejercicio 11: Giro incoherente con el rumbo autorizado",
-"Descripcion": "<color=#006F00>Autoriza Heading 090 en el panel</color>\n\nEspera y observa resaltes correspondientes a la alerta (<color=yellow>amarillo</color>/<color=#257DEC >azul</color>) por no cumplimiento de autorización:\n\n<color=#5C933F>•Campo restricción de rumbo h090.\n•Línea cero: alerta “HDG”</color>\n<color=#257DEC>•Bajo restricción de rumbo aparece rumbo en modo S.</color>\n\nClick BI sobre <color=#5C933F>HDG</color> para reconocer alerta -> <color=green>HDG</color>\n\nPara finalizar pulsa <color=#257DEC>MENU</color> en la esquina inferior derecha y selecciona el siguiente ejercicio."
+"Descripcion": "<color=#006F00>Autoriza Heading 090 en el panel</color>\n\nEspera y observa resaltes correspondientes a la alerta (<color=yellow>amarillo</color>/<color=#257DEC>azul</color>) por no cumplimiento de autorización:\n\n<color=#5C933F>•Campo restricción de rumbo h090.\n•Línea cero: alerta “HDG”</color>\n<color=#257DEC>•Bajo restricción de rumbo aparece rumbo en modo S.</color>\n\nClick BI sobre <color=#5C933F>HDG</color> para reconocer alerta -> <color=green>HDG</color>\n\nPara finalizar pulsa <color=#257DEC>MENU</color> en la esquina inferior derecha y selecciona el siguiente ejercicio."
 }

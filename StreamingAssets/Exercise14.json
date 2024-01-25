@@ -9,5 +9,5 @@
 "FuerzaVientoNudos":0,
 "AnguloViento":0,
 "NombreEjercicio": "Ejercicio 14: Abandono de ruta",
-"Descripcion": "<color=#006F00>Autoriza directo a MAMUK en el panel rápido</color>\n\n nEspera y observa resaltes correspondientes a la alerta (<color=yellow>amarillo</color>/<color=#257DEC >azul</color>) por no cumplimiento de autorización:\n\n<color=#5C933F>•Campo punto de ruta MAMUK\n•Línea cero: alerta “RUT”</color>\n\nClick BI sobre <color=#5C933F>RUT</color> para reconocer alerta -> <color=green>RUT</color>\n\nPara finalizar pulsa <color=#257DEC>MENU</color> en la esquina inferior derecha y selecciona el siguiente ejercicio.\n"
+"Descripcion": "<color=#006F00>Autoriza directo a MAMUK en el panel rápido</color>\n\n nEspera y observa resaltes correspondientes a la alerta (<color=yellow>amarillo</color>/<color=#257DEC>azul</color>) por no cumplimiento de autorización:\n\n<color=#5C933F>•Campo punto de ruta MAMUK\n•Línea cero: alerta “RUT”</color>\n\nClick BI sobre <color=#5C933F>RUT</color> para reconocer alerta -> <color=green>RUT</color>\n\nPara finalizar pulsa <color=#257DEC>MENU</color> en la esquina inferior derecha y selecciona el siguiente ejercicio.\n"
 }
