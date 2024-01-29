@@ -71,5 +71,5 @@
 	"ErrorProbs":{"LvlProbs":{"NotInitLvl": 20, "FreezeLvl": 20, "WrongLvl":20, "ExceedLvl": 20}, "SpeedProbs":{"WrongSpd":80},"RateProbs":{"WrongRate":80}, "HdgProbs":{"TurnHdg": 20, "FreezeHdg": 20, "LeaveHdg":20, "ExceedHdg": 20},"RouteProbs":{"WrongRoute":80}}}
 ],
 "NombreEjercicio": "Ejercicio 16: Pasada libre II",
-"Descripcion": "<color=white>Haz click con el botón izquierdo sobre el botón verde de PLAY en la esquina superior izquierda para iniciar el ejercicio</color> \n<color=green>Anota las restricciones de todo tipo que consideres necesarias y observa las alertas que se presentan cuando los tráficos incumplen las instrucciones</color> \n<color=white>Si lo deseas, al finalizar el ejercicio pulsa el botón MENU en la esquina inferior derecha para volver al menú y seleccionar otro ejercicio</color> \n
+"Descripcion": "<color=white>Haz click con el botón izquierdo sobre el botón verde de PLAY en la esquina superior izquierda para iniciar el ejercicio</color> \n<color=green>Anota las restricciones de todo tipo que consideres necesarias y observa las alertas que se presentan cuando los tráficos incumplen las instrucciones</color> \n<color=white>Si lo deseas, al finalizar el ejercicio pulsa el botón MENU en la esquina inferior derecha para volver al menú y seleccionar otro ejercicio</color> \n"
 } 
