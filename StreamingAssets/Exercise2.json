@@ -3,7 +3,7 @@
 "HoraInicio": "10:00:00",
 "Vuelos": [
 	
-	{"Callsign": "IBE11ON", "AircraftModel": "A21N", "Wake": "M", "Position": "POSSY", "InitLevel": 320, "Cfl":320, "TrueAirSpeed": 380, "Rate": 2000, "Route": ["POSSY", "GRAUS","GEMAS","REBUL","LATRO","MAMUK"],
+	{"Callsign": "IBE11ON", "AircraftModel": "A21N", "Wake": "M", "Position": "POSSY", "InitLevel": 320, "Cfl":320, "TrueAirSpeed": 380, "Rate": 2000, "Route": ["POSSY", "GRAUS","GEMAS","REBUL","LATRO","MAMUK"], "Hour": "10:00:00",
 	"ErrorProbs":{"LvlProbs":{"NotInitLvl": 100, "FreezeLvl": 0, "WrongLvl":0, "ExceedLvl": 0}, "SpeedProbs":{"WrongSpd":100},"RateProbs":{"WrongRate":100}, "HdgProbs":{"TurnHdg": 100, "FreezeHdg": 0, "LeaveHdg":0, "ExceedHdg": 0},"RouteProbs":{"WrongRoute":100}}}
 	
 ],

@@ -9,7 +9,7 @@
          "Position":"ALBER",
          "InitLevel":350,
          "Cfl":350,
-         "TrueAirSpeed":265,
+         "IndicatedAirSpeed":456,
          "Rate":2000,
          "Route":[
             "ALBER",
@@ -19,6 +19,7 @@
             "LORES",
             "POSBA"
          ],
+		 "Hour": "10:00:00",
          "ErrorProbs":{
             "LvlProbs":{
                "NotInitLvl":20,
@@ -50,7 +51,7 @@
          "Position":"GEANT",
          "InitLevel":370,
          "Cfl":370,
-         "TrueAirSpeed":447,
+         "IndicatedAirSpeed":447,
          "Rate":2000,
          "Route":[
             "GEANT",
@@ -60,6 +61,7 @@
             "DIPES",
             "SARGO"
          ],
+		 "Hour": "10:00:00",
          "ErrorProbs":{
             "LvlProbs":{
                "NotInitLvl":20,
@@ -91,7 +93,7 @@
          "Position":"BGR",
          "InitLevel":390,
          "Cfl":390,
-         "TrueAirSpeed":460,
+         "IndicatedAirSpeed":460,
          "Rate":2000,
          "Route":[
             "BGR",
@@ -100,6 +102,7 @@
             "RODRA",
             "PEXOT"
          ],
+		 "Hour": "10:00:00",
          "ErrorProbs":{
             "LvlProbs":{
                "NotInitLvl":20,
@@ -131,7 +134,7 @@
          "Position":"BISBA",
          "InitLevel":370,
          "Cfl":370,
-         "TrueAirSpeed":450,
+         "IndicatedAirSpeed":450,
          "Rate":2000,
          "Route":[
             "BISBA",
@@ -141,6 +144,7 @@
             "ANTON",
             "XIKEN"
          ],
+		 "Hour": "10:00:00",
          "ErrorProbs":{
             "LvlProbs":{
                "NotInitLvl":20,
@@ -172,7 +176,7 @@
          "Position":"NILDU",
          "InitLevel":350,
          "Cfl":350,
-         "TrueAirSpeed":456,
+         "IndicatedAirSpeed":456,
          "Rate":2000,
          "Route":[
             "NILDU",
@@ -184,6 +188,7 @@
             "VIBOK",
             "REBUL"
          ],
+		 "Hour": "10:00:00",
          "ErrorProbs":{
             "LvlProbs":{
                "NotInitLvl":20,
@@ -215,7 +220,7 @@
          "Position":"PEXOT",
          "InitLevel":360,
          "Cfl":360,
-         "TrueAirSpeed":444,
+         "IndicatedAirSpeed":444,
          "Rate":2000,
          "Route":[
             "PEXOT",
@@ -226,6 +231,7 @@
             "PIVUS",
             "DIBER"
          ],
+		 "Hour": "10:00:00",
          "ErrorProbs":{
             "LvlProbs":{
                "NotInitLvl":20,
@@ -257,7 +263,7 @@
          "Position":"KARES",
          "InitLevel":360,
          "Cfl":360,
-         "TrueAirSpeed":443,
+         "IndicatedAirSpeed":443,
          "Rate":2000,
          "Route":[
             "KARES",
@@ -268,6 +274,7 @@
             "PIVUS",
             "DIBER"
          ],
+		 "Hour": "10:00:00",
          "ErrorProbs":{
             "LvlProbs":{
                "NotInitLvl":20,
@@ -299,10 +306,10 @@
          "Position":"VILAR",
          "InitLevel":320,
          "Cfl":320,
-         "TrueAirSpeed":453,
+         "IndicatedAirSpeed":453,
          "Rate":2000,
          "Route":[
-	    "VILAR",
+			"VILAR",
             "KARES",
             "BISES",
             "BCN",
@@ -310,6 +317,7 @@
             "AGENA",
             "LUMAS"
          ],
+		 "Hour": "10:00:00",
          "ErrorProbs":{
             "LvlProbs":{
                "NotInitLvl":20,
@@ -341,7 +349,7 @@
          "Position":"BCN",
          "InitLevel":340,
          "Cfl":340,
-         "TrueAirSpeed":451,
+         "IndicatedAirSpeed":451,
          "Rate":2000,
          "Route":[
             "BCN",
@@ -350,6 +358,7 @@
             "LAPIT",
             "OSPOK"
          ],
+		 "Hour": "10:00:00",
          "ErrorProbs":{
             "LvlProbs":{
                "NotInitLvl":20,
@@ -381,7 +390,7 @@
          "Position":"MECKI",
          "InitLevel":380,
          "Cfl":380,
-         "TrueAirSpeed":462,
+         "IndicatedAirSpeed":462,
          "Rate":2000,
          "Route":[
             "MECKI",
@@ -391,6 +400,7 @@
             "DIPES",
             "TOSNU"
          ],
+		 "Hour": "10:00:00",
          "ErrorProbs":{
             "LvlProbs":{
                "NotInitLvl":20,
@@ -422,7 +432,7 @@
          "Position":"SULID",
          "InitLevel":350,
          "Cfl":350,
-         "TrueAirSpeed":470,
+         "IndicatedAirSpeed":470,
          "Rate":2000,
          "Route":[
             "SULID",
@@ -431,6 +441,7 @@
             "ANTON",
             "XIKEN"
          ],
+		 "Hour": "10:00:00",
          "ErrorProbs":{
             "LvlProbs":{
                "NotInitLvl":20,
@@ -462,13 +473,14 @@
          "Position":"LUKEV",
          "InitLevel":370,
          "Cfl":370,
-         "TrueAirSpeed":447,
+         "IndicatedAirSpeed":447,
          "Rate":2000,
          "Route":[
             "LUKEV",
             "LORES",
             "POSBA"
          ],
+		 "Hour": "10:00:00",
          "ErrorProbs":{
             "LvlProbs":{
                "NotInitLvl":20,
@@ -500,7 +512,7 @@
          "Position":"VERSO",
          "InitLevel":390,
          "Cfl":390,
-         "TrueAirSpeed":454,
+         "IndicatedAirSpeed":454,
          "Rate":2000,
          "Route":[
             "VERSO",
@@ -511,6 +523,7 @@
             "VIBOK",
             "REBUL"
          ],
+		 "Hour": "10:00:00",
          "ErrorProbs":{
             "LvlProbs":{
                "NotInitLvl":20,
@@ -542,7 +555,7 @@
          "Position":"PUMAL",
          "InitLevel":370,
          "Cfl":370,
-         "TrueAirSpeed":449,
+         "IndicatedAirSpeed":449,
          "Rate":2000,
          "Route":[
             "PUMAL",
@@ -555,6 +568,7 @@
             "BATBI",
             "ERMUT"
          ],
+		 "Hour": "10:00:00",
          "ErrorProbs":{
             "LvlProbs":{
                "NotInitLvl":20,
@@ -580,6 +594,8 @@
          }
       }
    ],
+   "FuerzaVientoNudos":40,
+   "AnguloViento":180,
    "NombreEjercicio":"Ejercicio 16: Pasada libre II",
    "Descripcion":"<color=white>Haz click con el botón izquierdo sobre el botón verde de PLAY en la esquina superior izquierda para iniciar el ejercicio</color> \n<color=green>Anota las restricciones de todo tipo que consideres necesarias y observa las alertas que se presentan cuando los tráficos incumplen las instrucciones</color> \n<color=white>Si lo deseas, al finalizar el ejercicio pulsa el botón MENU en la esquina inferior derecha para volver al menú y seleccionar otro ejercicio</color> \n"
 }

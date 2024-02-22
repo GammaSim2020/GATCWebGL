@@ -2,11 +2,11 @@
    "Sector":"BCN",
    "HoraInicio":"10:00:00",
    "Vuelos":[
-	{"Callsign": "IBE11ON", "AircraftModel": "A21N", "Wake": "M", "Position": "POSSY", "InitLevel": 320, "Cfl":320, "TrueAirSpeed": 380, "Rate": 2000, "Route": ["POSSY", "GRAUS","GEMAS","REBUL","LATRO","MAMUK"],
+	{"Callsign": "IBE11ON", "AircraftModel": "A21N", "Wake": "M", "Position": "POSSY", "InitLevel": 320, "Cfl":320, "TrueAirSpeed": 380, "Rate": 2000, "Route": ["POSSY", "GRAUS","GEMAS","REBUL","LATRO","MAMUK"], "Hour": "10:00:05",
 	"ErrorProbs":{"LvlProbs":{"NotInitLvl": 100, "FreezeLvl": 0, "WrongLvl":0, "ExceedLvl": 0}, "SpeedProbs":{"WrongSpd":100},"RateProbs":{"WrongRate":100}, "HdgProbs":{"TurnHdg": 100, "FreezeHdg": 0, "LeaveHdg":0, "ExceedHdg": 0},"RouteProbs":{"WrongRoute":0}}}
    ],
    "FuerzaVientoNudos":0,
    "AnguloViento":0,
    "NombreEjercicio":"Ejercicio 1: No ejecución de autorización de ascenso/descenso",
-   "Descripcion":"<color=#006F00>Autoriza CFL 300 en el panel</color>\nPasados x segundos se activa el aviso de disconformidad vertical (amarillo) por no cumplimiento de autorización:\n\n<color=#5C933F>•Campo CFL: 300\n•Línea cero: alerta “LVL”</color>\n\nClick BI sobre <color=#5C933F>LVL</color> para reconocer alerta -> <color=green>LVL</color>\n\nPara finalizar pulsa <color=#257DEC>MENU</color> en la esquina inferior derecha y selecciona el siguiente ejercicio."
+   "Descripcion":"<color=#006F00>Autoriza CFL 300 en el panel</color>\nPasados x segundos se activa el aviso de disconformidad vertical (<color=#EAC12E>amarillo</color>) por no cumplimiento de autorización:\n\n<color=#5C933F>•Campo CFL: 300\n•Línea cero: alerta “LVL”</color>\n\nClick BI sobre <color=#5C933F>LVL</color> para reconocer alerta -> <color=green>LVL</color>\n\nPara finalizar pulsa <color=#257DEC>MENU</color> en la esquina inferior derecha y selecciona el siguiente ejercicio."
 }
