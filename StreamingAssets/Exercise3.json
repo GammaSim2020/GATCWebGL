@@ -10,5 +10,5 @@
 "FuerzaVientoNudos":0,
 "AnguloViento":0,
 "NombreEjercicio": "Ejercicio 3:  Level Bust por rate excesivo",
-"Descripcion": "<color=green>Autoriza CFL 300 en el panel.</color>\n\nEspera y observa resaltes correspondientes a la alerta de predicción de sobrepaso del CFL (<color=##5C933F>verde intermedio</color>) y de disconformidad de CFL (<color=#ffff00>amarillo</color>):\n\n<color=#5C933F>•Línea cero: alerta “BUST” / Campo CFL: 300.</color>\n<color=#ffff00>•Línea cero: alerta “BUST” / Campo CFL: 300</color>\n<color=#257DEC>•Linea 4: rate modo S</color>\n\nClick BI sobre BUST para reconocer alerta -> <color=#008d3f>BUST</color>\nPara finalizar pulsa MENU en la esquina inferior derecha y selecciona el siguiente ejercicio."
+"Descripcion": "<color=green>Autoriza CFL 300 en el panel.</color>\n\nEspera y observa resaltes correspondientes a la alerta de predicción de sobrepaso del CFL (<color=#5C933F>verde intermedio</color>) y de disconformidad de CFL (<color=#ffff00>amarillo</color>):\n\n<color=#5C933F>•Línea cero: alerta “BUST” / Campo CFL: 300.</color>\n<color=#ffff00>•Línea cero: alerta “BUST” / Campo CFL: 300</color>\n<color=#257DEC>•Linea 4: rate modo S</color>\n\nClick BI sobre BUST para reconocer alerta -> <color=#008d3f>BUST</color>\nPara finalizar pulsa MENU en la esquina inferior derecha y selecciona el siguiente ejercicio."
 } 
