@@ -8,5 +8,5 @@
    "FuerzaVientoNudos":0,
    "AnguloViento":0,
    "NombreEjercicio":"Ejercicio 1: No ejecución de autorización de ascenso/descenso",
-   "Descripcion":"<color=#006F00>Autoriza CFL 300 en el panel</color>\nPasados x segundos se activa el aviso de disconformidad vertical (<color=#EAC12E>amarillo</color>) por no cumplimiento de autorización:\n\n<color=#5C933F>•Campo CFL: 300\n•Línea cero: alerta “LVL”</color>\n\nClick BI sobre <color=#5C933F>LVL</color> para reconocer alerta -> <color=green>LVL</color>\n\nPara finalizar pulsa <color=#257DEC>MENU</color> en la esquina inferior derecha y selecciona el siguiente ejercicio."
+   "Descripcion":"<color=#006F00>Autoriza CFL 300 en el panel</color>\nPasados x segundos se activa el aviso de disconformidad vertical (<color=#ffff00>amarillo</color>) por no cumplimiento de autorización:\n\n<color=#ffff00>•Campo CFL: 300\n•Línea cero: alerta “LVL”</color>\n\nClick BI sobre <color=#ffff00>LVL</color> para reconocer alerta -> <color=green>LVL</color>\n\nPara finalizar pulsa <color=#257DEC>MENU</color> en la esquina inferior derecha y selecciona el siguiente ejercicio."
 }
