@@ -9,5 +9,5 @@
 "FuerzaVientoNudos":0,
 "AnguloViento":0,
 "NombreEjercicio": "Ejercicio 13: Rumbo sobrepasado",
-"Descripcion": "<color=#006F00>Autoriza Heading 090 en el panel</color>\n\nEspera y observa resaltes correspondientes a la alerta (<color=yellow>amarillo</color>/<color=#257DEC>azul</color>) por no cumplimiento de autorización:\n\n<color=#5C933F>•Campo restricción de rumbo h090.\n•Línea cero: alerta “HDG”</color>\n<color=#257DEC>•Bajo restricción de rumbo aparece rumbo en modo S.</color>\n\nClick BI sobre <color=#5C933F>HDG</color> para reconocer alerta -> <color=green>HDG</color>\n\nPara finalizar pulsa <color=#257DEC>MENU</color> en la esquina inferior derecha y selecciona el siguiente ejercicio.\n"
+"Descripcion": "<color=green>Autoriza Heading 090 en el panel</color>\n\nEspera y observa resaltes correspondientes a la alerta (<color=#ffff00>amarillo</color>/<color=#257DEC>azul</color>) por no cumplimiento de autorización:\n\n<color=#ffff00>•Campo restricción de rumbo h090.\n•Línea cero: alerta “HDG”</color>\n<color=#257DEC>•Bajo restricción de rumbo aparece rumbo en modo S.</color>\n\nClick BI sobre <color=#ffff00>HDG</color> para reconocer alerta -> <color=#008d3f>HDG</color>\n\nPara finalizar pulsa MENU en la esquina inferior derecha y selecciona el siguiente ejercicio.\n"
 }
