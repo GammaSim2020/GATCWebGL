@@ -10,5 +10,5 @@
 "FuerzaVientoNudos":0,
 "AnguloViento":0,
 "NombreEjercicio": "Ejercicio 2: No ejecución de autorización de ascenso/descenso When Ready",
-"Descripcion": "<color=#006F00>Autoriza CFL 300 WR en el panel</color>\n\nTras autorizar un CFL WR el campo CFL en la etiqueta aparece subrayado. Pasados 30 segundos (configuración real = 5 min) se activa el aviso de disconformidad vertical (blanco) por no cumplimiento de autorización:\n•Campo FL 300 subrayado\n\nClick BI sobre CFL 300 para reconocer alerta -> <color=green>300</color>\nPara finalizar pulsa “MENU” en la esquina inferior derecha y selecciona el siguiente ejercicio." 
+"Descripcion": "<color=green>Autoriza CFL 300 WR en el panel</color>\n\nTras autorizar un CFL WR el campo CFL en la etiqueta aparece subrayado. Pasados 30 segundos (configuración real = 5 min) se activa el aviso de disconformidad vertical (blanco) por no cumplimiento de autorización:\n•Campo FL 300 subrayado\n\nClick BI sobre CFL 300 para reconocer alerta -> <color=#008d3f>300</color>\nPara finalizar pulsa “MENU” en la esquina inferior derecha y selecciona el siguiente ejercicio." 
 } 
