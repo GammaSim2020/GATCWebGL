@@ -9,7 +9,7 @@
          "Position":"ALBER",
          "InitLevel":350,
          "Cfl":350,
-         "IndicatedAirSpeed":456,
+         "TrueAirSpeed":456,
          "Rate":2000,
          "Route":[
             "ALBER",
@@ -51,7 +51,7 @@
          "Position":"GEANT",
          "InitLevel":370,
          "Cfl":370,
-         "IndicatedAirSpeed":447,
+         "TrueAirSpeed":447,
          "Rate":2000,
          "Route":[
             "GEANT",
@@ -93,7 +93,7 @@
          "Position":"BGR",
          "InitLevel":390,
          "Cfl":390,
-         "IndicatedAirSpeed":460,
+         "TrueAirSpeed":460,
          "Rate":2000,
          "Route":[
             "BGR",
@@ -134,7 +134,7 @@
          "Position":"BISBA",
          "InitLevel":370,
          "Cfl":370,
-         "IndicatedAirSpeed":450,
+         "TrueAirSpeed":450,
          "Rate":2000,
          "Route":[
             "BISBA",
@@ -176,7 +176,7 @@
          "Position":"NILDU",
          "InitLevel":350,
          "Cfl":350,
-         "IndicatedAirSpeed":456,
+         "TrueAirSpeed":456,
          "Rate":2000,
          "Route":[
             "NILDU",
@@ -220,7 +220,7 @@
          "Position":"PEXOT",
          "InitLevel":360,
          "Cfl":360,
-         "IndicatedAirSpeed":444,
+         "TrueAirSpeed":444,
          "Rate":2000,
          "Route":[
             "PEXOT",
@@ -263,7 +263,7 @@
          "Position":"KARES",
          "InitLevel":360,
          "Cfl":360,
-         "IndicatedAirSpeed":443,
+         "TrueAirSpeed":443,
          "Rate":2000,
          "Route":[
             "KARES",
@@ -306,7 +306,7 @@
          "Position":"VILAR",
          "InitLevel":320,
          "Cfl":320,
-         "IndicatedAirSpeed":453,
+         "TrueAirSpeed":453,
          "Rate":2000,
          "Route":[
 			"VILAR",
@@ -349,7 +349,7 @@
          "Position":"BCN",
          "InitLevel":340,
          "Cfl":340,
-         "IndicatedAirSpeed":451,
+         "TrueAirSpeed":451,
          "Rate":2000,
          "Route":[
             "BCN",
@@ -390,7 +390,7 @@
          "Position":"MECKI",
          "InitLevel":380,
          "Cfl":380,
-         "IndicatedAirSpeed":462,
+         "TrueAirSpeed":462,
          "Rate":2000,
          "Route":[
             "MECKI",
@@ -432,7 +432,7 @@
          "Position":"SULID",
          "InitLevel":350,
          "Cfl":350,
-         "IndicatedAirSpeed":470,
+         "TrueAirSpeed":470,
          "Rate":2000,
          "Route":[
             "SULID",
@@ -473,7 +473,7 @@
          "Position":"LUKEV",
          "InitLevel":370,
          "Cfl":370,
-         "IndicatedAirSpeed":447,
+         "TrueAirSpeed":447,
          "Rate":2000,
          "Route":[
             "LUKEV",
@@ -512,7 +512,7 @@
          "Position":"VERSO",
          "InitLevel":390,
          "Cfl":390,
-         "IndicatedAirSpeed":454,
+         "TrueAirSpeed":454,
          "Rate":2000,
          "Route":[
             "VERSO",
@@ -555,7 +555,7 @@
          "Position":"PUMAL",
          "InitLevel":370,
          "Cfl":370,
-         "IndicatedAirSpeed":449,
+         "TrueAirSpeed":449,
          "Rate":2000,
          "Route":[
             "PUMAL",
