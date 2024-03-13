@@ -168,7 +168,6 @@
                "KANIG_N",
                "KANIG",
                "BGR",
-               "",
                "GIR",
                "NENDA",
                "BCN",
@@ -255,7 +254,6 @@
                "MAMES",
                "BISBA",
                "BGR",
-               "",
                "GIR",
                "NENDA",
                "BCN",
@@ -473,8 +471,7 @@
                "KANIG",
                "BGR",
                "FEVIK",
-               "SALON",
-               ""
+               "SALON"
             ],
             "Hour":"10:00:00"
          },
@@ -688,7 +685,6 @@
                "KANIG_N",
                "KANIG",
                "BGR",
-               "",
                "GIR",
                "NENDA",
                "BCN",
