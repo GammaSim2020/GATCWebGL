@@ -49,8 +49,8 @@
          "AircraftModel":"B738",
          "Wake":"M",
          "Position":"GEANT",
-         "InitLevel":370,
-         "Cfl":370,
+         "InitLevel":350,
+         "Cfl":350,
          "TrueAirSpeed":447,
          "Rate":2000,
          "Route":[
