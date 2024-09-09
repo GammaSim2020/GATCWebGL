@@ -9,5 +9,5 @@
 "FuerzaVientoNudos":0,
 "AnguloViento":0,
 "NombreEjercicio": "Ejercicio 6: Restricción de velocidad vertical (rate)",
-"Descripcion": "<color=green>Autoriza CFL 240 en el panel.\n\nAutoriza Rate 10 en el panel.</color>\n\nEspera y observa resaltes correspondientes a la alerta (<color=#ffff00>amarillo</color>/<color=#257DEC>azul</color>) por no cumplimiento de autorización:\n\n<color=#ffff00>•Campo restricción de velocidad r10 \n•Línea cero: alerta “RATE”</color>\n<color=#257DEC>•Bajo restricción de velocidad aparece rate modo S</color>\n\nClick BI sobre <color=#ffff00>RATE</color> para reconocer alerta -> <color=#008d3f>RATE</color>\n\nPara finalizar pulsa MENU en la esquina inferior derecha y selecciona el siguiente ejercicio."
+"Descripcion": "<color=green>Autoriza CFL 240 en el panel.\n\nAutoriza Rate 10 en el panel.</color>\n\nEspera y observa resaltes correspondientes a la alerta (<color=#ffff00>amarillo</color>/<color=#257DEC>azul</color>) por no cumplimiento de autorización:\n\n<color=#ffff00>•Campo restricción de tasa de ascenso/descenso r10 \n•Línea cero: alerta “RATE”</color>\n<color=#257DEC>•Bajo restricción de velocidad aparece rate modo S</color>\n\nClick BI sobre <color=#ffff00>RATE</color> para reconocer alerta -> <color=#008d3f>RATE</color>\n\nPara finalizar pulsa MENU en la esquina inferior derecha y selecciona el siguiente ejercicio."
 }

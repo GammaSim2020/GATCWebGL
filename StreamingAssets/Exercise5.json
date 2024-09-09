@@ -9,5 +9,5 @@
 "FuerzaVientoNudos":0,
 "AnguloViento":0,
 "NombreEjercicio": "Ejercicio 5: Disconformidad de SFL (Pilot Selected FL) respecto al CFL",
-"Descripcion": "<color=green>Autoriza CFL 300 en el panel.</color>\n\nAl comprobarse la disconformidad del CFL con el SFL observa resaltes correspondientes a la alerta (<color=#ffff00>amarillo</color>) por no cumplimiento de autorización:\n\n<color=#ffff00>•Campo CFL: 300\n•Línea cero: alerta “LVL”</color>\n\n nClick BI sobre <color=#ffff00>SFL</color> para reconocer alerta -> <color=#008d3f>SFL</color>\n\nPara finalizar pulsa MENU en la esquina inferior derecha y selecciona el siguiente ejercicio."
+"Descripcion": "<color=green>Autoriza CFL 300 en el panel.</color>\n\nAl comprobarse la disconformidad del CFL con el SFL observa resaltes correspondientes a la alerta (<color=#ffff00>amarillo</color>) por no cumplimiento de autorización:\n\n<color=#ffff00>•Campo CFL: 300\n•Línea cero: alerta “SFL”</color>\n\n nClick BI sobre <color=#ffff00>SFL</color> para reconocer alerta -> <color=#008d3f>SFL</color>\n\nPara finalizar pulsa MENU en la esquina inferior derecha y selecciona el siguiente ejercicio."
 }
